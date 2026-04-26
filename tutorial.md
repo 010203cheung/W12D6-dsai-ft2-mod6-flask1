@@ -227,7 +227,7 @@ if __name__ == "__main__":
 ### Running the app
 Do the following command:
 
-Run the below 2 lines first else the next part might not work.
+For github codespaces, run the below 2 lines first else the next part might not work.
 ```bash
 conda config --add channels conda-forge
 conda config --set channel_priority strict
@@ -235,6 +235,11 @@ conda config --set channel_priority strict
 
 ```bash
 conda create -n flask python=3.11
+```
+
+For github codespaces, run the below first else the next part might not work.
+```bash
+source ~/.bashrc
 ```
 
 ```bash
