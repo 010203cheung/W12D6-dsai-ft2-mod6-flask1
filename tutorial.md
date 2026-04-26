@@ -237,8 +237,9 @@ conda config --set channel_priority strict
 conda create -n flask python=3.11
 ```
 
-For github codespaces, run the below first else the next part might not work.
+For github codespaces, run the below 2 lines first else the next part might not work.
 ```bash
+conda init
 source ~/.bashrc
 ```
 
