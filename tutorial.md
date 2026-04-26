@@ -653,6 +653,8 @@ Finally, add the following import
 import joblib
 ```
 
+Don't forget to upload the pickle file from ML created by joblib.
+In this practice, upload DBS_SGD_model.pkl to the main folder.
 
 The final solution is in the solution folder.
 
