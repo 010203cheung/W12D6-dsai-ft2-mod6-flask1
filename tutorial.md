@@ -293,7 +293,7 @@ The addition is a form that get text input from user after user hit submit.
 
 Run the app now with `python app.py`.
 
-IMPORTANT CHANGE to `app.py`! Watch out for 
+IMPORTANT CHANGE to `index.html`! Watch out for 
 ```html
 <form action="/" method="post">
 ```
