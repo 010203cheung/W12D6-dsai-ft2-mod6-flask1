@@ -54,6 +54,8 @@ my_flask_app/
 └── README.md
 ```
 
+The pickle file (DBS__SGD_model.pkl) from your ML should also be uploaded under the main folder.
+
 ---
 
 ## 4. Key Files Explained
